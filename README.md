@@ -1,2 +1,2 @@
 # invie-github
-mi repositorio del curso de git
+Tus mejores guitarras Invie-sibles by @platzi
